@@ -1,3 +1,3 @@
 @echo off
-cd C:\Users\Korisnik\Documents\Programs\Simple\VideoDownloader\VideoDownloader
+cd C:\Users\"replace this whit path to the loction of the program"\VideoDownloader
 python main.py
