@@ -2,7 +2,7 @@
 Video downloader made in python using pytube
 
 ## Usage
-Download installer [here](). (does not exist)
+Download installer [here](). (executable file does not exist due to the compatibility of pymovie and pyinstaller)
 
 Install all required pip modules and just run `main.bat`.
 
